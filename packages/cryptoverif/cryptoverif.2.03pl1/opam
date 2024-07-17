@@ -24,7 +24,7 @@ build: [
 ]
 install: [ "./build" "install" "%{prefix}%" ]
 url {
-  src: "http://cryptoverif.inria.fr/cryptoverif2.03pl1.tar.gz"
+  src: "https://bblanche.gitlabpages.inria.fr/cryptoverif/cryptoverif2.03pl1.tar.gz"
   checksum: [
     "md5=d0f0525bbdd4a2820214cdfa51f2f4a7"
     "sha512=c8a1ea460b28be1c06db24826d6bcbe307f142d9248042d9a75ffe5a4c48a1c9f12157d2b83c8176aad7c03de031b62a37d8f6b3230d78195871908d2c7de6d5"

@@ -22,7 +22,7 @@ maintainer:
   "Bruno Blanchet <bruno.blanchet@inria.fr>, Vincent Cheval <vincent.cheval@inria.fr>"
 authors:
   "Bruno Blanchet <bruno.blanchet@inria.fr>, Vincent Cheval <vincent.cheval@inria.fr>, Marc Sylvestre"
-homepage: "http://proverif.inria.fr/"
+homepage: "https://proverif.inria.fr/"
 dev-repo: "git+https://gitlab.inria.fr/bblanche/proverif.git"
 bug-reports: "proverif-dev@inria.fr"
 license: "GPL-2.0-or-later"
@@ -37,7 +37,7 @@ build: [
 install: [ "./build" "install" "%{prefix}%" ]
 
 url {
-  src: "https://proverif.inria.fr/proverif2.04.tar.gz"
+  src: "https://bblanche.gitlabpages.inria.fr/proverif/proverif2.04.tar.gz"
   checksum: [
     "sha256=a96e5ec13f35c9ead7a0e960df69bc4018eb6a46939da501613d9d93cab5fc75"
     "md5=26c052c4d98dafe3642a2d8289e0708a"

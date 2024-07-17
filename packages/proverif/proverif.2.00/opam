@@ -3,7 +3,7 @@ maintainer:
   "Bruno Blanchet <bruno.blanchet@inria.fr>, Marc Sylvestre <marc.sylvestre@inria.fr>"
 authors:
   "Bruno Blanchet <bruno.blanchet@inria.fr>, Vincent Cheval <vincent.cheval@icloud.com>, Ben Smyth <research@bensmyth.com>, Marc Sylvestre <marc.sylvestre@inria.fr>"
-homepage: "http://proverif.inria.fr/"
+homepage: "https://proverif.inria.fr/"
 bug-reports: "bruno.blanchet@inria.fr"
 license: "GPL-1.0-or-later"
 build: [
@@ -49,7 +49,7 @@ A survey of ProVerif with references to other papers is available at
 Bruno Blanchet. Modeling and Verifying Security Protocols with the Applied Pi Calculus and ProVerif. Foundations and Trends in Privacy and Security, 1(1-2):1-135, October 2016. http://dx.doi.org/10.1561/3300000004"""
 flags: light-uninstall
 url {
-  src: "http://proverif.inria.fr/proverif2.00.tar.gz"
+  src: "https://bblanche.gitlabpages.inria.fr/proverif/proverif2.00.tar.gz"
   checksum: [
     "sha256=fe8c0cc0e20efa84d2849aee13c0a57715df37b1a6e9c3761a3841569084576e"
     "md5=ba83a09cdf4e6895222d133826dc667b"
